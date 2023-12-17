@@ -10,7 +10,7 @@ Scripts:
                              OW weighting.
   - s01_forFeatureExtraction.R: this code is executed within the 's01_featureExtraction.R' script and contains libraries, functions and some 
                                 variables to run the main script.
-  - s01_featureExtraction_PF.R / s01_forFeatureExtraction_PF.R: same but the vaccination cohort just includes AstraZeneca vaccine  
+  - s01_featureExtraction_AZ.R / s01_forFeatureExtraction_AZ.R: same but the vaccination cohort just includes AstraZeneca vaccine  
   - s01_featureExtraction_PF.R / s01_forFeatureExtraction_PF.R: same but the vaccination cohort just includes Pfizer vaccine    
   
  Folders: 
