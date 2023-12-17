@@ -1,4 +1,4 @@
-# PACS_study
+# COVID-19 vaccine effectiveness for acute and post acute cardiac and thromboembolic complications following SARS-CoV-2 infection
 Codes listed here are for the first staggered cohort study to assess the vaccine effectivness against Post Acute Covid-19 Sequelae. Notice that they assume that some cohorts are already instanciated cohorts. .JSON files are given as well as .csv with the cohort_definition_id for each.
 
 ## Briew description
