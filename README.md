@@ -21,8 +21,3 @@ Scripts:
                        sHR, 95%CI, and SE.
   - cohorts: cohorts as .JSON files.
  
-  ### Considerations
-  - The script 's01_forFeatureExtraction' saves the population weighted that will be used later for 's01_forFeatureExtraction_AZ' and 
-    's01_forFeatureExtraction_PF'.
-  - I would recomend to instanciate the cohorts following the legend in 'estudi_pacs_03.csv'.
-  - Once the .JSON cohorts are instanciated, you can instanciate both population and outcome cohorts with the scripts for it. 
